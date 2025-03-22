@@ -2,6 +2,6 @@ REM Made By Kushed3d
 DELAY 1000
 GUI r
 DELAY 500
-STRING https://www.youtube.com/watch?v=dQw4w9WgXcQ
+STRING https://www.PornHub.com
 DELAY 200
 ENTER
